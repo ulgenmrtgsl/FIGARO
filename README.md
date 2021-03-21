@@ -9,7 +9,7 @@ Within the scope of this project, for the integration of 15 Arduino UNO board in
 
 Within the scope of “CE_103 Introduction to Computers and Programming for Civil Engineers” course in Gebze Technical University Civil Engineering undergraduate education curriculum, Python open source programming language is supported by examples prepared for civil engineer candidates. With the Accelerometer device to be obtained as a project output, an important step will be taken in order to train competent engineers by supporting students. With the documented lecture notes on the subject of generating and processing vibration data and analyzing data will be produced as an output of this project. It is thought that the accelerometer devices that will be the product of the project will also be an important resource for graduate research.
 
-**Keywords: Arduino UNO Board, MEMS, Accelerometer, Python
 <p align="align-center">  <img src="https://user-images.githubusercontent.com/2802823/111889832-312da580-89f5-11eb-9f2d-82695f598180.jpg" width = 50% > </p>
 
+**Keywords: Arduino UNO Board, MEMS, Accelerometer, Python
 ---
