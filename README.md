@@ -11,5 +11,6 @@ Within the scope of “CE_103 Introduction to Computers and Programming for Civi
 
 <p align="align-center">  <img src="https://user-images.githubusercontent.com/2802823/111889832-312da580-89f5-11eb-9f2d-82695f598180.jpg" width = 50% > </p>
 
-**Keywords: Arduino UNO Board, MEMS, Accelerometer, Python
+_Keywords: Open source software, Python, Low-Cost Device, Undergraduate Education, Earthquake issues_
+
 ---
